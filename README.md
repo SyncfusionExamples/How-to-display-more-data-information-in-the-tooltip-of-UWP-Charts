@@ -42,6 +42,8 @@ Here, display both country name and its population details in the tooltip. By de
 
 ![Tooltip with more data in UWP chart](https://github.com/SyncfusionExamples/How-to-display-more-data-information-in-the-tooltip-of-UWP-Charts/blob/main/UWP_Chart_Tooltip_Customization.gif)
 
+KB article - [](https://www.syncfusion.com/kb/12482/how-to-display-more-data-in-the-tooltip-of-uwp-charts)
+
 ## See also
 
 [How to set the duration for chart tooltip](https://www.syncfusion.com/kb/6161/how-to-set-the-duration-for-chart-tooltip)
